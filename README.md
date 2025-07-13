@@ -49,8 +49,8 @@ enhancing performance efficiency.
 * Works well even when the cell doesn’t strongly pull the bitlines (important for low-voltage or fast-access SRAM), hence **High Sensitivity.**
 * It only turns on when SAE (Sense Amplifier Enable) is high.
 * With SAE low;  Data and Data# are pre-charge high
+![WhatsApp Image 2025-07-13 at 20 24 09_4dc793d9](https://github.com/user-attachments/assets/8b176603-20e6-41e9-a762-38afdfc248a9)
 
-![Screenshot 2025-06-29 122734](https://github.com/user-attachments/assets/e013c155-b2e3-4be6-bb81-51cb75fd2d44)
   
 
 ### 4. 2x4 Decoder 
